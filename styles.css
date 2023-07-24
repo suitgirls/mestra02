@@ -1,7 +1,9 @@
 title {color:lightpink;}
 body {
+    color:whitesmoke;
     background-color:antiquewhite;
     font-family: Georgia, 'Times New Roman', Times, serif
+    
 
 }
 h1 {color:rosybrown;
@@ -14,6 +16,3 @@ h3 {color:rosybrown;
     font-family: 'Playfair Display', serif;
 }
 a {color:rosybrown;}
-p {color:whitesmoke; 
-    font-family: 'Playfair Display', serif;
-}
