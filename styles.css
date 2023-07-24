@@ -1,6 +1,16 @@
 title {color:lightpink;}
-body {background-color:antiquewhite;}
-h1 {color:rosybrown;}
-h2 {color:rosybrown;}
-h3 {color:rosybrown;}
+body {
+    background-color:antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+h1 {color:rosybrown;
+    font-family: 'Playfair Display', serif;
+}
+h2 {color:rosybrown;
+    font-family: 'Playfair Display', serif;
+}
+h3 {color:rosybrown;
+    font-family: 'Playfair Display', serif;
+}
 a {color:rosybrown;}
