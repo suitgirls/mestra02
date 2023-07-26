@@ -14,7 +14,11 @@ h3 {color:rosybrown;
     font-family: 'Playfair Display', serif;
 }
 a {color:rosybrown;}
-nav {background-color: lavenderblush;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: lavenderblush;
+}
 
 nav a {color:antiquewhite;}
 nav {color:antiquewhite;}
