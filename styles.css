@@ -17,7 +17,7 @@ a {color:rosybrown;}
 nav {
     padding: 10px;
     margin-bottom: 30px;
-    background-color: white;
+    background-color: antiquewhite;
 }
 
 nav a {color:antiquewhite;}
@@ -29,6 +29,6 @@ div {
     border: 1px solid rosybrown;
     margin: 30 px; 
     padding: 50 px; 
-    background-color: rgb(201, 173, 138);
+    background-color: white;
     border-radius: 25px;
 }
