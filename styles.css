@@ -26,9 +26,9 @@ nav {color:antiquewhite;}
 nav a:hover {background-color:palevioletred;}
 
 div {
-    border: 1px solid black;
+    border: 1px solid rosybrown;
     margin: 30 px; 
     padding: 50 px; 
-    background-color: white;
+    background-color: floralwhite;
     border-radius: 25px;
 }
