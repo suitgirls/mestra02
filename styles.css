@@ -24,3 +24,11 @@ nav a {color:antiquewhite;}
 nav {color:antiquewhite;}
 
 nav a:hover {background-color:palevioletred;}
+
+div {
+    border: 1px solid black;
+    margin: 30 px; 
+    padding: 50 px; 
+    background-color: white;
+    border-radius: 25px;
+}
